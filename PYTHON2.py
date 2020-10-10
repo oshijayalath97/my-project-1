@@ -2,7 +2,7 @@
 
 
 
-num = 10
+num = 5
 
 if (num % 2) == 0:
    print("{0} is even".format(num))
